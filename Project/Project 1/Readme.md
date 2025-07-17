@@ -63,4 +63,4 @@ The evaluation metric used is **C-Index**, implemented via Somers’ D correlati
 - Statistical validation with Somers’ D correlation (C-Index)
   
 ## You can view the project:
-[🔗 View Project Notebook]([https://github.com/your-username/your-repo-name/blob/main/exercise-3-final-draft.ipynb](https://github.com/ghufranullah1997/Evaluation_of_Machine_Learning_Models/blob/main/Project/Project%201/EMLM_Exercise1_Ghufran_Ullah.ipynb))
+[🔗 View Project Notebook](https://github.com/ghufranullah1997/Evaluation_of_Machine_Learning_Models/blob/main/Project/Project%201/EMLM_Exercise1_Ghufran_Ullah.ipynb)
