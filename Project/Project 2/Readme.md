@@ -43,7 +43,7 @@ These clearly show performance drop-off beyond 100 meters.
 
 ---
 ## You can access the full project here:
-- 📄 [Jupyter Notebook](https://github.com/ghufranullah1997/Evaluation_of_Machine_Learning_Models/blob/main/Project/Project%202/EMLM2025_exercise2.ipynb)
+- 📄 [🔗 View Project Notebook](https://github.com/ghufranullah1997/Evaluation_of_Machine_Learning_Models/blob/main/Project/Project%202/EMLM2025_exercise2.ipynb)
 
 
 
