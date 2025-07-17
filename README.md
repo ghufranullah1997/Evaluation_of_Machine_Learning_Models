@@ -1,6 +1,6 @@
 # 📊 Evaluation of Machine Learning Methods
 
-This repository contains material and summaries related to the course **"Evaluation of Machine Learning Methods"**, which builds on the foundation laid by *Data Analysis and Knowledge Discovery* and *Statistical Data Analysis*. The course emphasizes statistically rigorous techniques for estimating the real-world performance of AI and machine learning systems.
+This repository contains material and summaries related to the course **"Evaluation of Machine Learning Methods"**, which builds on the foundation laid by *Data Analysis and Knowledge Discovery* and *Statistical Data Analysis*. The course emphasizes statistical techniques for estimating the real-world performance of AI and machine learning systems.
 
 ---
 
