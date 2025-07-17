@@ -45,7 +45,6 @@ These values reflect a **more realistic** performance estimate of the model in p
 
 ---
 
-## 🔗 Project Link
-
-[Project Github Reposatory Link](https://github.com/ghufranullah1997/Evaluation_of_Machine_Learning_Models/blob/main/Project/Project%203/exercise-3-final-draft.ipynb)
+## You can view the project:
+[🔗 View Project Notebook](https://github.com/ghufranullah1997/Evaluation_of_Machine_Learning_Models/blob/main/Project/Project%203/exercise-3-final-draft.ipynb)
 
