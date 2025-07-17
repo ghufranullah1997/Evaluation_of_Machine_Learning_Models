@@ -42,9 +42,9 @@ These clearly show performance drop-off beyond 100 meters.
 - Spatial KNN models must consider distance constraints to ensure predictive trustworthiness.
 
 ---
-You can access the full project here (will be added later):
-- 📄 [Jupyter Notebook](https://github.com/yourusername/your-repo-name/blob/main/notebook.ipynb)
-- 📑 [Project Report (PDF)](Project/Project 2/EMLM2025_exercise2 Solution.pdf)
+## You can access the full project here:
+- 📄 [Jupyter Notebook][(https://github.com/ghufranullah1997/Evaluation_of_Machine_Learning_Models/blob/main/Project/Project%202/EMLM2025_exercise2.ipynb)]
+
 
 
 
